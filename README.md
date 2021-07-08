@@ -8,7 +8,7 @@ I have always had a burning curiosity for tech, coding, and programming. My gene
 
 I now work closely with the Le Wagon team in Melbourne as a Teacher Assistant. 🚀
 
-Outside of coding, I love lifting heavy weights, coffee, beer and travel. ☕️🏋️‍♂️🌏
+Outside of coding, I love coffee, beer, travel and lifting heavy weights. ☕️ 🏋️‍♂️ 🌏
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-temple/)
 
