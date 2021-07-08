@@ -1,6 +1,6 @@
 ### Hi I'm Tom
 
-I'm a `Scottish Software Developer`, musician and burrito lover based in Melbourne, Australia 🇦🇺.
+I'm a `Scottish Software Developer` , musician and burrito lover based in Melbourne, Australia 🇦🇺.
 
 I moved down under 🦘 4 years ago and fell in love with the city’s creative and driven atmosphere. I have traveled a lot and thrive on meeting new people and adapting to different environments.
 
@@ -8,7 +8,7 @@ I have always had a burning curiosity for tech, coding, and programming. My gene
 
 I now work closely with the Le Wagon team in Melbourne as a Teacher Assistant. 🚀
 
-Outside of coding, I love coffee, beer and travel. ☕️
+Outside of coding, I love lifting heavy weights, coffee, beer and travel. ☕️🏋️‍♂️🌏
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-temple/)
 
