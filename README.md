@@ -10,6 +10,8 @@ I now work closely with the Le Wagon team in Melbourne as a Teacher Assistant. �
 
 Outside of coding, I love coffee, beer, travel and lifting heavy weights. ☕️ 🏋️‍♂️ 🌏
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-temple/)
+I have a few projects on my github. Feel free to have a look at them and the README's attached. 
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-temple/) 😊
 
 
