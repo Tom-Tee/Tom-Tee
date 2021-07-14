@@ -1,6 +1,6 @@
 ### Hi I'm Tom
 
-I'm a `Scottish Software Developer` , musician and burrito lover based in Melbourne, Australia 🇦🇺.
+I'm a `Scottish Software Developer` , musician and burrito lover based in Melbourne, Australia 🇦🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿. 
 
 I moved down under 🦘 4 years ago and fell in love with the city’s creative and driven atmosphere. I have traveled a lot and thrive on meeting new people and adapting to different environments.
 
