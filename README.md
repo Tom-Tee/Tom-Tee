@@ -8,7 +8,7 @@ I have always had a burning curiosity for tech, coding, and programming. My gene
 
 I now work closely with the Le Wagon team in Melbourne as a Teacher Assistant. 🚀
 
-Outside of coding, I love coffee, beer, travel and lifting heavy weights. ☕️ 🏋️‍♂️ 🌏
+Outside of coding, I am a passionate musician, love beer, travel and lifting heavy weights. ☕️ 🏋️‍♂️ 🌏
 
 I have a few projects on my github. Feel free to have a look at them and the README's attached. 
 
