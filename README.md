@@ -12,6 +12,19 @@ Outside of coding, I am a passionate musician, love beer, travel and lifting hea
 
 I have a few projects on my github. Feel free to have a look at them and the README's attached. 
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-tee&label=Profile%20views&color=0e75b6&style=flat" alt="tom-tee" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tom-tee" alt="tom-tee" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tom-tee&show_icons=true&locale=en&layout=compact" alt="tom-tee" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-tee&show_icons=true&locale=en" alt="tom-tee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tom-tee&" alt="tom-tee" /></p>
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-temple/) 😊
 
 
